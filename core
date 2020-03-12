@@ -1,0 +1,5 @@
+function start()
+  io.write("ccox core v0.9\n")
+  io.write("loading ccox features ...\n")
+  --boot process in here.
+end
